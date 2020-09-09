@@ -1,0 +1,1 @@
+export const spotify: string = 'spotify'
