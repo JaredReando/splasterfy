@@ -21,17 +21,17 @@ const useStyles = makeStyles({
   }
 });
 
-function createData(name: string) {
-  return { name };
-}
+// function createData(name: string) {
+//   return { name };
+// }
 
-const rows = [
-  createData('Frozen yoghurt'),
-  createData('Ice cream sandwich'),
-  createData('Eclair'),
-  createData('Cupcake'),
-  createData('Gingerbread')
-];
+// const rows = [
+//   createData('Frozen yoghurt'),
+//   createData('Ice cream sandwich'),
+//   createData('Eclair'),
+//   createData('Cupcake'),
+//   createData('Gingerbread')
+// ];
 
 interface Detail {
   bio: {
