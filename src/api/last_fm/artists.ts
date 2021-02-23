@@ -67,7 +67,7 @@ interface GetInfoRequest {
     username?: string
 }
 
-interface GetInfoResponse {
+export interface GetInfoResponse {
     artist: {
         name: string;
         mbid?: string;
