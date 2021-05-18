@@ -110,6 +110,7 @@ function App() {
             id="artist"
             onChange={e => setInput(e.currentTarget.value)}
             value={input}
+            data-testid="artist-search"
           />
           <button type="submit" className="App-link">Search</button>
         </form>
