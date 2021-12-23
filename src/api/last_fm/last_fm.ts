@@ -1,7 +1,5 @@
 export const lastFm: string = "last_fm"
 
-
-
 export class LastFmAPI {
 
     private readonly methods: any = {
