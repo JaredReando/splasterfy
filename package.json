@@ -1,6 +1,7 @@
 {
   "name": "splasterfy",
   "version": "0.1.0",
+  "homepage": "https://jaredreando.github.io/splasterfy",
   "private": true,
   "license": "MIT",
   "author": "Jared Reando",
@@ -72,6 +73,8 @@
     "workbox-webpack-plugin": "4.3.1"
   },
   "scripts": {
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build",
     "start": "node scripts/start.js",
     "build": "node scripts/build.js",
     "test": "node scripts/test.js",
@@ -94,7 +97,8 @@
   },
   "devDependencies": {
     "@testing-library/cypress": "^7.0.6",
-    "cypress": "^7.3.0"
+    "cypress": "^7.3.0",
+    "gh-pages": "^4.0.0"
   },
   "jest": {
     "roots": [
