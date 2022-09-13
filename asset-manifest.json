@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/splasterfy/static/css/main.6b113088.chunk.css",
+    "main.js": "/splasterfy/static/js/main.01b91236.chunk.js",
+    "main.js.map": "/splasterfy/static/js/main.01b91236.chunk.js.map",
+    "runtime-main.js": "/splasterfy/static/js/runtime-main.be75fc90.js",
+    "runtime-main.js.map": "/splasterfy/static/js/runtime-main.be75fc90.js.map",
+    "static/js/2.85289691.chunk.js": "/splasterfy/static/js/2.85289691.chunk.js",
+    "static/js/2.85289691.chunk.js.map": "/splasterfy/static/js/2.85289691.chunk.js.map",
+    "index.html": "/splasterfy/index.html",
+    "precache-manifest.727f92a94b1b64d0e91e8a4b332bbf07.js": "/splasterfy/precache-manifest.727f92a94b1b64d0e91e8a4b332bbf07.js",
+    "service-worker.js": "/splasterfy/service-worker.js",
+    "static/css/main.6b113088.chunk.css.map": "/splasterfy/static/css/main.6b113088.chunk.css.map",
+    "static/js/2.85289691.chunk.js.LICENSE.txt": "/splasterfy/static/js/2.85289691.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be75fc90.js",
+    "static/js/2.85289691.chunk.js",
+    "static/css/main.6b113088.chunk.css",
+    "static/js/main.01b91236.chunk.js"
+  ]
+}
